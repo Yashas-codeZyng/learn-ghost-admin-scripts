@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@lexical/html": "^0.19.0",
+    "@tryghost/admin-api": "^1.13.12",
+    "jsdom": "^25.0.1"
+  }
+}
